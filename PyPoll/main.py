@@ -1,1 +1,0 @@
-#Python program for PyPoll
